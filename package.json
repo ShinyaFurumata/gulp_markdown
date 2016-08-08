@@ -1,0 +1,22 @@
+{
+  "name": "gulp_markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinyaFurumata/gulp_markdown.git"
+  },
+  "author": "Shinya Furumata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinyaFurumata/gulp_markdown/issues"
+  },
+  "homepage": "https://github.com/ShinyaFurumata/gulp_markdown#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
