@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/ShinyaFurumata/gulp_markdown#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jekyll": "0.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2"
   }
 }
